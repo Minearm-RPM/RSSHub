@@ -35,7 +35,7 @@ We welcome all pull requests. Suggestions and feedback are also welcomed [here](
 
 Refer to [Quick Start](https://docs.rsshub.app/joinus/)
 
-## Deployment
+## Deployment0
 
 Refer to [Deployment](https://docs.rsshub.app/deploy/)
 
